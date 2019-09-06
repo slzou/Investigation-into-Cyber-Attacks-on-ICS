@@ -4,7 +4,7 @@ Runtime is significantly increased when generating models (as opposed to reading
 
 All code to generate models and write pickles is included
 
-Running order (in terms of chronology of creation):
+Running order (in terms of chronology of work):
   1) FirstAttempts.ipynb
   2) BaselineModel.ipynb
   3) LinearRegression.ipynb
