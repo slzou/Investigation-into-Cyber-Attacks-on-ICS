@@ -1,4 +1,4 @@
-Pickles not included as they are too large for the GitHub repo to handle
+Pickles not included as they are too large for the GitHub repo to contain
 
 Runtime is seriously increased when generating models (as opposed to reading from pickles)
 
